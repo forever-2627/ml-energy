@@ -1,0 +1,57 @@
+header {visibility: hidden;}
+
+footer {visibility: hidden;}
+
+.e1fb0mya1 {visibility: hidden;}
+
+.stMainBlockContainer{
+    padding: 1rem;
+}
+
+.stMainBlockContainer .st-emotion-cache-0{
+    border: 1px solid #eee;
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 4px 4px 10px 4px #eee;
+}
+
+.stElementContainer .st-emotion-cache-0{
+    box-shadow: none;
+    border: none;
+}
+
+.stMainBlockContainer .st-emotion-cache-0{
+    margin-top: 1rem;
+}
+
+.st-emotion-cache-133juvw {
+    margin-top: 0.5rem;
+}
+
+.js-plotly-plot .plotly{
+    overflow: scroll;
+}
+
+.menu .nav-item .nav-link.active{
+    text-wrap: nowrap!important;
+}
+
+.st-key-key-metrics-container{
+    padding: 2rem;
+}
+
+.st-key-monthly-container{
+    padding: 2rem;
+}
+
+.st-key-city-container{
+    padding: 2rem;
+}
+
+.st-key-appliances-container{
+    padding: 2rem;
+}
+
+.menu .container-xxl[data-v-5af006b8]{
+    padding: 0;
+}
